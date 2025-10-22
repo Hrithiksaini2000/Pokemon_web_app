@@ -80,6 +80,6 @@ body .pokemon_search input:focus-visible{
     grid-template-columns: repeat(1, 1fr);
     list-style: none;
     gap: 20px;
-    padding: 0px;
+    padding: 10px;
 }
 }
